@@ -11,3 +11,32 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+* {
+  text-align: center;
+}
+
+#header {
+  padding: 2em 0;
+  background-color: #bbffe0;
+}
+
+#branch {
+  padding: 5em 1em;
+}
+
+#radioGroup {
+  padding: 1.3em 0.5em;
+}
+
+#duckType {
+  padding: 1em ;
+}
+
+#subHeader {
+  padding: 2em 1em;
+}
+
+#twoEm {
+  padding: 2em;
+}
